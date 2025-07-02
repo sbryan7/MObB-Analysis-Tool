@@ -8,4 +8,4 @@ See the original user guide here: [MObBpractical_guide.docx](MObBpractical_guide
 
 This software is released under the [MIT License](LICENSE), which permits reuse, modification, and distribution with proper attribution.
 
-Permission has been obtained to distribute the code under this license.
+Permission has been obtained from Sina Ghaemmaghami, former PI of John Bettinger, to distribute the code under this license.
